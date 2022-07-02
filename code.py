@@ -60,7 +60,7 @@ while(transactions > 0):
         print('Thank you for using DUMPYS BANK ACCOUNT! we hope to see you soon.')
         transactions = transactions - 3
 
-    if(transactions are <= 0):
+    if(transactions <= 0):
         print("Thank you for using DUMPY'S BANK ACCOUNT! we hope to see you soon.")
     
     
